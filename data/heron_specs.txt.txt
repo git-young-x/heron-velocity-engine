@@ -1,0 +1,32 @@
+================================================================================
+HERON POWER: ENRICHED SOURCE OF TRUTH (V3.0 - APRIL 2026)
+================================================================================
+
+1. DATA CENTER ARCHITECTURE (GIGASCALE AI)
+--------------------------------------------------------------------------------
+- Product: Heron Link + Integrated SuperBBU.
+- Conversion: 34.5kV AC (Utility) directly to 800V DC (Rack-Ready).
+- AI Factory Alignment: Specifically designed for Nvidia Blackwell (GB200) and 
+  future Kyber architectures requiring 100kW to 1MW per rack.
+- Legacy Elimination: Removes LV Transformers, UPS, PDU, and RPP.
+- Footprint: 70% reduction in electrical room size.
+- Ride-Through: Integrated SuperBBU provides 30-second ride-through, stabilizing 
+  rack-level power ripple and grid transitions.
+- Efficiency: 98.5% MV-to-Rack (Industry Leading).
+
+2. MARKET & MANUFACTURING (THE "TESLA MAFIA" SCALE)
+--------------------------------------------------------------------------------
+- Funding: $140M Series B (Feb 2026) to scale US manufacturing.
+- Capacity: Building a 40GW facility to solve the "Interconnection Bottleneck."
+- Lead Times: Bypasses the 2-5 year wait for electrical steel by using 
+  Silicon Carbide (SiC) semiconductor supply chains.
+- Problem Solved: The "Interconnection Bottleneck" where data centers are 
+  ready but the grid equipment (transformers) is 3 years away.
+
+3. SOLAR, STORAGE & GRID-FORMING
+--------------------------------------------------------------------------------
+- Capacity: 5MW modular units.
+- Availability: 99.5% via modular redundancy.
+- Grid-Forming: Active frequency regulation and blackstart capability.
+- Standby Losses: 10x lower than traditional low-frequency transformers.
+================================================================================

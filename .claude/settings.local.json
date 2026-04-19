@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m venv .venv)",
+      "Bash(.venv/Scripts/pip install *)",
+      "Bash(.venv/Scripts/python agents/librarian.py)",
+      "Bash(.venv/Scripts/pip show *)",
+      "Bash(.venv/Scripts/python agents/strategist.py)",
+      "Bash(.venv/Scripts/python -m agents.orchestrator)",
+      "Bash(.venv/Scripts/python -W ignore -c ' *)",
+      "Bash(echo \"exit:$?\")"
+    ]
+  }
+}
