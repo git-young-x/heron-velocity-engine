@@ -1,4 +1,6 @@
 <img width="1325" height="754" alt="{031D9DC0-6291-41B7-9E62-F631133CC15E}" src="https://github.com/user-attachments/assets/76c3f9a7-8d66-4908-bbfd-b2c6f30f05ca" /># Heron Velocity Engine (HVE) 🚀
+<img width="2549" height="1262" alt="{6B06598A-59D9-4A06-A8CD-E44FACEB809A}" src="https://github.com/user-attachments/assets/cde96ac4-6203-4a00-be76-0d964ab8f582" />
+<img width="2560" height="1259" alt="image" src="https://github.com/user-attachments/assets/30229796-2653-4cf8-a20b-58b32093571a" />
 **Multi-Agent Strategic Intelligence Architecture for Rapid, Grounded Content Production.**
 
 The **Heron Velocity Engine** is a prototype AI system designed to solve the "technical translation bottleneck." It takes high-signal market inputs (release notes, technical whitepapers, competitor intel) and automatically refracts them into verified, persona-specific mission packs for GTM, Sales, Engineering, and Recruiting teams.
@@ -32,6 +34,5 @@ HVE utilizes a multi-agent "Triage & Refract" workflow to ensure output is both 
 git clone [https://github.com/git-young-x/heron-velocity-engine.git](https://github.com/git-young-x/heron-velocity-engine.git)
 cd heron-velocity-engine
 
-<img width="2549" height="1262" alt="{6B06598A-59D9-4A06-A8CD-E44FACEB809A}" src="https://github.com/user-attachments/assets/cde96ac4-6203-4a00-be76-0d964ab8f582" />
-<img width="2560" height="1259" alt="image" src="https://github.com/user-attachments/assets/30229796-2653-4cf8-a20b-58b32093571a" />
+
 
